@@ -17,6 +17,19 @@ h2 {
     color: rgb(52, 174, 235);
 }
 
+ul {
+    margin-left: 40px;
+}
+
+a {
+    color: rgb(50, 84, 168);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .content > p {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 5px;
